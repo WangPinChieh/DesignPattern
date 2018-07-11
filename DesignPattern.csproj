@@ -49,6 +49,7 @@
     <Compile Include="Decorator\ConcreteDecorator.cs" />
     <Compile Include="Decorator\Finery.cs" />
     <Compile Include="Decorator\Person.cs" />
+    <Compile Include="Factory\FactoryPractice.cs" />
     <Compile Include="Form1.cs">
       <SubType>Form</SubType>
     </Compile>
